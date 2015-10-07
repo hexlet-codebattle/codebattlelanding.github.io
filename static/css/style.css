@@ -1016,6 +1016,12 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   margin: 315px 0 200px;
   padding: 30px 40px;
 }
+.header-15-sub .hero-unit .logo_holder {
+  border: 2px solid white;
+  display: inline-block;
+  margin: 160px 0 200px;
+  padding: 15px;
+}
 .header-15-sub .hero-unit p {
   font-size: 13px;
   font-weight: normal;
@@ -1036,6 +1042,10 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
     font-size: 20px;
     font-weight: normal;
     color: #ffffff;
+    margin: 150px 0 90px;
+  }
+
+  .header-15-sub .hero-unit .logo_holder {
     margin: 150px 0 90px;
   }
 }
